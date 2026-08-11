@@ -4,7 +4,7 @@
 
 <img width="1217" height="791" alt="Sekira Dashboard Preview" src="https://github.com/user-attachments/assets/5f0ba18c-33f5-44b1-b3d0-98d01ab23c92" />
 <p align="center">
-  <a href="https://github.com/XPfarmerr/Sekira-Osu-Tool/releases/download/v1.0.2/SekiraOsu.zip">
+  <a href="https://github.com/XPfarmerr/Sekira-Osu-Tool/releases/download/v1.0.3/SekiraOsu.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20VERSION%20(.ZIP)-181717?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Version">
   </a>
 </p>
@@ -51,7 +51,7 @@ Discreet cursor tracking helper with real-time target detection.
 
 ### 🚀 Quick Start
 <p align="left">
-  <a href="https://github.com/XPfarmerr/Sekira-Osu-Tool/releases/download/v1.0.2/SekiraOsu.zip">
+  <a href="https://github.com/XPfarmerr/Sekira-Osu-Tool/releases/download/v1.0.3/SekiraOsu.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20VERSION%20(.ZIP)-181717?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Version">
   </a>
 </p>
